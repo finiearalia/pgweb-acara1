@@ -9,4 +9,4 @@ Kelas: PGWEB A
 
 Avatar: 
 
-![Avatar](image/dino.png)
+![Avatar](image/fotoo.jpeg)
