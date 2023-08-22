@@ -7,6 +7,8 @@ NIM: 22/496917/SV/21047
 
 Kelas: PGWEB A
 
-Avatar: 
+Hobi: Menyanyi
+
+***Avatar:*** 
 
 ![Avatar](image/dino.png)
